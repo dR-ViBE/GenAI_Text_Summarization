@@ -1,0 +1,18 @@
+# Deep Learning & NLP Frameworks
+tensorflow==2.15.0
+transformers==4.41.2
+datasets==2.20.0
+huggingface-hub>=0.23.0
+nltk
+
+# MLOps & Evaluation
+neptune
+rouge-score
+
+# Data Processing & Math
+numpy
+pandas
+
+# Utilities & Environment
+jupyter
+filelock==3.15.4
